@@ -157,7 +157,7 @@ RETURN
 
 **Page 1 — Executive Overview**
 
-![Dashboard Overview](assets/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 The one-pager covers every requirement from the management brief:
 - **Product card** (image, description, price) with a slicer to browse by product
@@ -169,7 +169,7 @@ The one-pager covers every requirement from the management brief:
 
 **Tooltip Page — Product Detail on Hover**
 
-![Tooltip View](assets/tooltip-view.png)
+![Tooltip View](tooltip-view.png)
 
 A dedicated tooltip page shows product-level detail (sale price, cost price, and customer-type distribution as a percentage) when hovering over a product image in the main report — a small UX touch to keep the main page uncluttered while still surfacing SKU-level detail on demand.
 
